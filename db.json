@@ -1,0 +1,22 @@
+{
+    "Top-Briyani-shops":[
+        {
+            "name":"Pista house",
+            "location":"JNTU",
+            "menu":{
+                "veg-briyani":{
+                    "price":200
+                }
+            }
+        },
+        {
+            "name":"ABC Briyani",
+            "location":"XYZ ",
+            "menu":{
+                "veg-briyani":{
+                    "price":100
+                }
+            }
+        }
+    ]
+}
